@@ -1,2 +1,2 @@
-# cours_23
-another_test_repository_created_fro_scratch
+# cours_23 2025
+another test repository created from scratch
